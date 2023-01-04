@@ -1,0 +1,19 @@
+N,TVStand6,,,,
+M,Plywood 18mm,,,,
+K,0.15,,,,
+@,L,W,Qty,Grain dir,
+S,96,48,,h,
+@,L,W,Qty,Grain dir,Label
+P,60,17.25,1,h,Base Back
+P,3,2,2,h,Base Back Foot Corner
+P,12,2,1,h,Base Back Foot Middle
+P,8,8.5,1,,Base Bottom
+P,64,1.5,11,h,Slat Front
+P,1.5,10.25,22,h,Slat Side
+P,64,2,1,h,SlatTop Front
+P,2,9.8,2,h,SlatTop Side
+P,59.5,0.25,12,h,Shield Slat Front
+P,0.25,8,24,h,Shield Slat Side
+P,24,3,2,h,Back Rail
+P,12,17.75,2,h,Back Side
+P,9,17.75,1,h,Back Mid
